@@ -15,8 +15,8 @@ class PastorBrownCommands(BaseCommands):
             },
             "oddtom": {
                 "docs": "what is oddtommin?",
-                "kwargs": ["oddtomming", "oddtom"],
-                "func": self.messageReturner("An OddTom is a common mistake made in all photos runs, like sleeping through the dog race, or not getting your wife pregnant. overall, pretty disappointing Kappa"),
+                "kwargs": ["oddtomming", "oddtom", "oddpenguin"],
+                "func": self.messageReturner("An OddTom is a common mistake made in all photos runs, like sleeping through the dog race, not getting your wife pregnant, or bringing the blue feather to the waifu and forgetting to use it. overall, pretty disappointing Kappa"),
             },
             "gddto": {
                 "docs": "what is oddtommin?",
